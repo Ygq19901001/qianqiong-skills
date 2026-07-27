@@ -1,0 +1,16 @@
+﻿{
+  "_schema": "2.8",
+  "_comments": {
+    "learnings_format": "每个 learnings 条目格式：{\"date\":\"ISO日期\",\"scope\":\"shared|personal\",\"domain\":\"领域\",\"what_happened\":\"错误描述\",\"correct_answer\":\"正确做法\",\"context\":\"触发场景\"}。scope=\"shared\"表示领域知识/通用修正，可被升级管道写入技能正文；scope=\"personal\"表示单用户偏好/习惯，留在本地，不随版本升级覆盖。",
+    "preferences_note": "user_preferences 用于记忆用户的语气风格偏好，如正式度偏好、声音类型偏好、金句密度偏好、改写激进程度偏好等。"
+  },
+  "evolution_tier": "E1",
+  "skill_version": "2.1.6",
+  "created": "2026-06-24",
+  "creator": "人类Nan",
+  "learnings": [],
+  "user_preferences": {},
+  "tier": "E1",
+  "distill_policy": "self-only",
+  "version": "2.1.8"
+}
