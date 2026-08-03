@@ -11,7 +11,7 @@ description: |
   知识搜索、个人文档存取（如"帮我记一下"、"搜一下知识库里有没有XX"），也应触发此 skill。
 author: QianQiong
 license: MIT
-version: 1.0.1
+version: 2.2.0
 homepage: https://ima.qq.com
 triggers:
   - 知识库
@@ -287,6 +287,42 @@ if ($useUtf8Bytes) {
 ```
 
 > **总结：** 在 PowerShell 5.1 环境中，**所有** API 调用（无论 notes 还是 knowledge-base）都必须将 Body 显式转为 UTF-8 字节数组。不检测版本直接发请求 = 中文内容必乱码。这是 PowerShell 5.1 的已知设计缺陷，不是 bug 可以被修复。
+## FAQ（高频问题速查）
+
+**Q1：报错凭证/token 相关？**
+凭证未配置或失效（QP-E501）。运行 get-token.ps1/.sh 重新获取，确认 client_id/api_key 已写入环境变量或配置。
+
+**Q2：上传的文件类型不支持？**
+检查支持列表（14 种扩展名：PDF/Word/Excel/PPT/图片/音频等）。本地图片、视频、HTML 不支持（QP-E502）。
+
+**Q3：上传失败/超时？**
+网络或 COS 临时故障（QP-E503）。检查网络后重试；preflight-check.cjs 会返回 JSON 失败原因，按原因处理。
+
+**Q4：新建笔记还是追加内容？**
+信号词区分：新内容→新建；续写/补充→追加。模糊场景先询问用户，不擅自判断（QP-E504）。
+
+**Q5：PowerShell 中文乱码？**
+PowerShell 5.1 必须将 Body 显式转为 UTF-8 字节数组（见上文模板），否则中文必乱码。
+
+## QP 错误码（专用段 E501+）
+
+| 码 | 含义 | 修正引导 |
+|----|------|---------|
+| QP-E501 | 凭证缺失/失效 | 运行 get-token 脚本重新获取凭证 |
+| QP-E502 | 文件类型不支持 | 提示支持列表（14 种扩展名），说明拒绝原因 |
+| QP-E503 | 上传/接口失败 | 检查网络重试，按 preflight 返回原因处理 |
+| QP-E504 | 新建/追加冲突 | 模糊场景先询问用户，不擅自判断 |
+| QP-E505 | 接口错误码 | 按 notes 模块错误码表（100001-20004）定位处理 |
+
+## 输入/输出约束
+
+| 项 | 约束 |
+|----|------|
+| 输入 | 操作意图（搜索/列表/读取/新建/追加/上传/添加网页）+ 必要参数 |
+| 文件 | PDF/Word/Excel/PPT/图片/音频等 14 种；本地图片/视频/HTML 不支持 |
+| 编码 | 所有请求 Body 必须 UTF-8 字节数组（PS 5.1 铁律） |
+| 输出 | 接口 JSON 响应 + 操作结果说明；错误按 QP 错误码提示 |
+
 ## When to Use
 
 This skill is triggered when the user requests functionality related to the service or operation described in the name and description fields above. Refer to the description for specific trigger phrases and use cases.

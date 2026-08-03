@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Skill validation script — checks SKILL.md structure and metadata
 .DESCRIPTION
