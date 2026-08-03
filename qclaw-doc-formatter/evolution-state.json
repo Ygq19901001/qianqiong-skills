@@ -1,0 +1,8 @@
+{
+  "version": "1.0.3",
+  "evolution_tier": "E0",
+  "usage_count": 0,
+  "learned": [],
+  "last_distill": null,
+  "distill_policy": "self-only"
+}

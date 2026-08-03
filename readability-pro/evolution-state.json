@@ -1,0 +1,21 @@
+{
+  "version": "1.0.5",
+  "created": "2026-06-26",
+  "lastAudit": "2026-06-26",
+  "auditResult": "19 issues found, 19 fixed, 0 blocking",
+  "tier": "E1",
+  "lastDiagnosis": "2026-06-26",
+  "totalDiagnoses": 7,
+  "patternCounters": {},
+  "sceneStats": {
+    "商业汇报": 1,
+    "社交生活": 1,
+    "技术文档": 1,
+    "公文汇报": 1,
+    "文学创作": 1,
+    "演讲发言": 1,
+    "混合场景": 1
+  },
+  "dimensionStats": {},
+  "distill_policy": "self-only"
+}

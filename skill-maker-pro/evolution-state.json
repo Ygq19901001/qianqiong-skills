@@ -1,0 +1,237 @@
+{
+  "tier": "E3",
+  "version": "3.0.18",
+  "skill_md_kb": 22.5,
+  "skill_md_bytes": 23016,
+  "pf_count": 16,
+  "pf_passing": 16,
+  "creator": "人类Nan",
+  "created": "2026-06-22",
+  "named_on": "2026-06-23",
+  "name_meaning": "元技能——制作+测试+升级+自进化的技能",
+  "archived_skills": [
+    "技能门面打磨循环"
+  ],
+  "archived_note": "active 自制 = 31；技能门面打磨循环为 v3.0.10 收编后退役留档件（物理存在、不计入 active），物理文件夹合计 32。",
+  "evolution_history": [
+    {
+      "version": "2.0.0",
+      "date": "2026-06-22",
+      "summary": "首次发布，技能制作基础方法论"
+    },
+    {
+      "version": "2.3.0",
+      "date": "2026-06-23",
+      "summary": "元技能正式命名为「元技能」，焊入起源铭文"
+    },
+    {
+      "version": "2.6.0",
+      "date": "2026-06-24",
+      "summary": "引入 Cron 12h 巡检（后来发现违反不可变核心）"
+    },
+    {
+      "version": "2.8.0",
+      "date": "2026-06-24",
+      "summary": "八阶方法论 + 起源铭文"
+    },
+    {
+      "version": "2.8.1",
+      "date": "2026-06-25",
+      "summary": "起源铭文焊入第 1 行（不可变核心第零条）"
+    },
+    {
+      "version": "2.9.0",
+      "date": "2026-07-06",
+      "summary": "删除 Cron 巡检，信号流水改为提案模式，H1-H5 硬隔离"
+    },
+    {
+      "version": "2.9.1",
+      "date": "2026-07-06",
+      "summary": "修复 4 个高优问题，philosophy reflection 笔记"
+    },
+    {
+      "version": "2.9.2",
+      "date": "2026-07-06",
+      "summary": "引入 MCL 梦境系统（三阶段记忆整理）"
+    },
+    {
+      "version": "2.9.3",
+      "date": "2026-07-07",
+      "summary": "v2.9.2 补丁：拆出 17 个幽灵引用 stub + 修 P0 数据打架 + 加 PF9 BOM/垃圾检查 + 严格化 PF6 (8 铁则全检) + release.py argparse。仍是补丁级版本，未达 v3.0 目标。"
+    },
+    {
+      "version": "3.0.0",
+      "date": "2026-07-07",
+      "summary": "双层结构外壳完成（15.9KB, -92%），9 个 references/ 子目录，6 路专家团评审流程集成，五协议防身，PF 9/9 PASS，起源铭文 v3.0.0 正式发布。版本号三重一致（YAML/§9/evolution-state.json）。「我不是什么」改为自包含不引用具体技能名。"
+    },
+    {
+      "version": "3.0.1",
+      "date": "2026-07-08",
+      "summary": "合并 QClaw v2.8.1 红线#22（YAML前置检查）+ 文件准备校验；起源铭文移至 YAML 之后；PF5 改写。四平台已发活版本。"
+    },
+    {
+      "version": "3.0.2",
+      "date": "2026-07-08",
+      "summary": "新增「子技能自我蒸馏赋权标准」（去中心化：母体赋权、子体用权，母体不聚合子技能记忆）；新增 PF10 赋权三件套核对；PF 10/10。对齐用户'让每个技能蒸馏自己'。"
+    },
+    {
+      "version": "3.0.3",
+      "date": "2026-07-08",
+      "summary": "版本刷新以强制 SkillHub 重发含自我蒸馏三件套；对齐四平台。内容相对 v3.0.2 增量小。"
+    },
+    {
+      "version": "3.0.4",
+      "date": "2026-07-09",
+      "summary": "新增 PF11 门面质检规范（displayName 必填 / 触发词用户原声 / 首屏价值钩子 / description 收益 / 默认可独立触发），从 43 技能全量门面扫描通病提炼。治本「功能硬、门面差」制造范式缺陷。"
+    },
+    {
+      "version": "3.0.5",
+      "date": "2026-07-09",
+      "summary": "R1 循环反哺：加 PF11f 门面去模板化（反同质化）+ L3 唤醒提醒；元技能自身补正文触发词小节自治。基于 R1 评估「批量改造导致钩子同质化」发现。"
+    },
+    {
+      "version": "3.0.6",
+      "date": "2026-07-09",
+      "summary": "R4 循环反哺：PF11d 升为硬门槛——description 必须含价值动词否则 PR 不通过；L3 唤醒强化为「发布即用即记」强制钩子；基于 R4 评估「12 技能 description 缺价值词、吸引力仅 72%」发现。"
+    },
+    {
+      "version": "3.0.7",
+      "date": "2026-07-09",
+      "summary": "R5 循环反哺：修 auto-test.py 使 PF5 兼容红线#22 且覆盖 PF10/PF11/PF11f 共 12 项，门面质量门自动守护；统一 PF 计数口径为 12 项；新增 P0/P1/P2 缺陷分级；修版本叙事过时；新增 PF12「质量门脚本必须与 PF 规范同步」。基于 R5 评估「元技能未完善——auto-test 与规范冲突、门面无自动守护」发现。"
+    },
+    {
+      "version": "3.0.8",
+      "date": "2026-07-09",
+      "summary": "R6 循环反哺：auto-test.py 引入「技能类型分级」判据——单文件工具型 PF2 豁免、PF6/PF7 降 ADV；双层结构型 PF2 改「非空即过」；批量补齐 16 技能起源铭文（PF5 红线）+ 17 双层型 PF6/PF7 语义，使 43 技能 PF2/PF5/PF6/PF7 全清零。基于 R6 评估「39 个 FAIL 中 PF2 大面积误判单文件型、PF6/PF7 对轻量工具过度治理」发现。"
+    },
+    {
+      "version": "3.0.9",
+      "date": "2026-07-09",
+      "summary": "R7 循环反哺：auto-test.py 把「技能类型分级」扩展到 PF1/PF3——单文件工具型 PF1 豁免体量门；PF3 钩子词补「触发词 / 可独立触发 / 3分钟 / 30秒」，对齐门面通病提炼；使 43 技能 PF1/PF3 残留全清零、全 12-PF PASS。基于 R7 评估「12 个合同系单文件工具被体量门误伤、4 个技能首屏已有规范触发词钩子但词表未覆盖」发现。"
+    },
+    {
+      "version": "3.0.10",
+      "date": "2026-07-11",
+      "summary": "A/B/C 收口修订：门面打磨循环章节（原 355-379 行）下沉至 references/methodology/polish-loop.md（SKILL.md 由 31.9KB 瘦至 29.8KB，回归 PF1 体量门）；auto-test.py 版本戳与 PF12 口径同步（明标 12 内容门 + PF12 人工纪律）；补齐孤儿 AP31；版本三重一致对齐（YAML/§9/evolution-state.json 均 3.0.10）。"
+    },
+    {
+      "version": "3.0.11",
+      "date": "2026-07-13",
+      "summary": "双向借鉴专家方法论 V4.0：新增 PF13 功能门(EVAL_SET 防废技能)/PF14 能力落地校验/PF15 行动授权声明+护栏；S1 前置 S0 重叠扫描消重复发布；auto-test.py 覆盖扩至 15 项内容门；元技能自带 EVAL_SET.md 吃自身狗粮；演进史下沉至 evolution-state.json（外壳 29.7KB 守 PF1 体量门）；版本三重一致对齐（YAML/§9/evolution-state.json 均 3.0.11）。"
+    },
+    {
+      "version": "3.0.12",
+      "date": "2026-07-13",
+      "summary": "新增质量门判断式分层赋权(T1/T2/T3)：PF13/PF10/PF14/PF15 由无脑通用改为按技能暴露面 tier 赋权；frontmatter 新增 tier 字段；auto-test.py 读 tier 转 ADV；不可变核心第5条改写。解决元技能不能当无脑通用规则反馈。"
+    },
+    {
+      "version": "3.0.13",
+      "date": "2026-07-13",
+      "summary": "瘦身：壳由 29.7KB 压至 17.8KB（<=18KB 安全区）。PF11a-e/缺陷等级下沉 pf-checklist；五协议下沉 five-protocols；蒸馏三件套下沉 distill-kit；六阶/进化/示例/打磨循环/反模式指针化；新增★分档速用(置顶脊梁)+形态选择框架+自我精简节。判断式赋权升为默认脊梁。"
+    },
+    {
+      "version": "3.0.14",
+      "date": "2026-07-14",
+      "summary": "编码减负总纲（黄金目标=让大模型调用时一次性完整加载 + 质量红线=只搬加载负担不减知识密度 + 壳安全线随目标模型上下文浮动：qwen3:8b 40K→≤18KB、qwen3.5:4b 262K→≤30KB）。同步专家方法论 V4.3 §十五同源同规。壳 18.04KB 守近似≤18KB 线。"
+    },
+    {
+      "version": "3.0.15",
+      "date": "2026-07-14",
+      "summary": "重锚减负总纲到大众云端模型（用户纠正：技能给大众用、大众跑云端 ≥128K，不锚定本地 qwen3:8b 40K / qwen3.5:4b 262K）：壳安全线改为单技能壳 ≤~40KB 完整加载无忧、偏好 ≤~30KB 省 token/留头空间；PF1 放宽至 8–40KB 并同步 auto-test.py（防 PF12 P0）。黄金目标/质量红线不变；减负由'防截断阻塞项'转为'省 token+留多技能头空间'持续改进。壳 18.71KB 远低于云端上限。"
+    },
+    {
+      "version": "3.0.16",
+      "date": "2026-07-16",
+      "summary": "引入质量红线#23（中文展示名 displayName 强制门：经本技能制作/修改的每个技能 frontmatter 须含中文 displayName，name/slug 保持英文；发布前强制校验三处同步：SKILL.md / self_made_manifest.json.cn / 虾评展示名）。"
+    },
+    {
+      "version": "3.0.17",
+      "date": "2026-07-17",
+      "summary": "引入质量红线#24（数据类技能防错门：凡从多源提取数据→计算衍生指标→生成报告/图表的技能，SKILL.md 必须内嵌六步防错法并标注源自 data-quality-gate；缺段即 P1。已内嵌宿主：data-analyst-pro、production-quality-analysis）。"
+    },
+    {
+      "version": "3.0.18",
+      "date": "2026-07-18",
+      "summary": "红线瘦身：#23 中文名移出红线、降为「发布前工作指令（惯例清单·非质量红线）」，避免红线臃肿、主次不分；壳按大众云端模型校准(≤40KB 完整加载)与细则下沉 references/ 再夯实；版本三重一致对齐（YAML/§9/evolution-state.json 均 3.0.18）。"
+    }
+  ],
+  "learnings": {
+    "shared": [
+      {
+        "date": "2026-07-06",
+        "type": "anti_pattern",
+        "content": "v2.9.2 触犯 AP27-AP30——元技能自己也在做错的事",
+        "promoted_to_skill": true
+      },
+      {
+        "date": "2026-07-06",
+        "type": "philosophy",
+        "content": "双层结构是基础——单文件不可能同时服务 5 分钟路过和 1 年长期",
+        "promoted_to_skill": true
+      },
+      {
+        "date": "2026-07-06",
+        "type": "design",
+        "content": "PF 质量门从'建议'升级为'机制'——9 项自动自检不过不让发布",
+        "promoted_to_skill": true
+      },
+      {
+        "date": "2026-07-06",
+        "type": "trigger_words",
+        "content": "触发词必须含 5+ 个用户原声型——'帮我做'/'我有个'/'帮我封装'等口语",
+        "promoted_to_skill": true
+      }
+    ],
+    "personal": [
+      {
+        "date": "2026-07-06",
+        "type": "workflow",
+        "content": "5 分钟快速示例必须在前 1/3——让路过的人 30 秒看到效果"
+      },
+      {
+        "date": "2026-07-06",
+        "type": "tooling",
+        "content": "PF 质量门用 Python 脚本实现——9 项自动自检，输出 PASS/FAIL 报告"
+      }
+    ]
+  },
+  "mcl_config": {
+    "trigger": "user_command",
+    "phases": [
+      "light",
+      "rem",
+      "deep"
+    ],
+    "last_run": null,
+    "total_runs": 0,
+    "note": "纯人触发，永不自动。promote 走人类确认。"
+  },
+  "dimensions": {
+    "skill_creation": {
+      "type": "count",
+      "current": 31,
+      "target": 30,
+      "as_of": "2026-07-11"
+    },
+    "pf_quality_gate_pass_rate": {
+      "type": "ratio",
+      "current": "16/16 (v3.0.18)",
+      "target": "11/11 (v3.0.4)",
+      "as_of": "2026-07-27"
+    },
+    "ap_count": {
+      "type": "count",
+      "current": 31,
+      "target": 35,
+      "as_of": "2026-07-11"
+    }
+  },
+  "structure": {
+    "skill_md_kb": 22.5,
+    "skill_md_bytes": 23016,
+    "references_subdirs": 9,
+    "pf_quality_gate_count": 16,
+    "pf_passing": 16
+  },
+  "distill_policy": "self-only"
+}
