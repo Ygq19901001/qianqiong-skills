@@ -1,4 +1,4 @@
----
+﻿---
 name: readability-pro
 slug: readability-pro
 displayName: 文章流畅度诊断

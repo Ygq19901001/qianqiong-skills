@@ -1,4 +1,4 @@
----
+﻿---
 name: image-video-prompt-lib
 slug: image-video-prompt-lib
 displayName: 图视频生成提示词库

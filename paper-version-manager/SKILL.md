@@ -1,4 +1,4 @@
----
+﻿---
 name: paper-version-manager
 slug: paper-version-manager
 displayName: 论文版本管理器

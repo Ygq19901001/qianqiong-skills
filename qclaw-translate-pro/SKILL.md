@@ -1,4 +1,4 @@
----
+﻿---
 name: translate-pro
 slug: qclaw-translate-pro
 displayName: 专业翻译

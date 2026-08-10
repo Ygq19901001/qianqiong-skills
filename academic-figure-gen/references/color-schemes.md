@@ -1,4 +1,4 @@
-# 学术配色方案 (Academic Color Schemes)
+﻿# 学术配色方案 (Academic Color Schemes)
 
 ## 概述
 

@@ -1,4 +1,4 @@
----
+﻿---
 <!-- SECLEVEL: INTERNAL -->
 name: reference-formatter
 slug: qclaw-reference-formatter

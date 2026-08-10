@@ -1,4 +1,4 @@
-# 学术数据图表生成 (academic-chart-gen)
+﻿# 学术数据图表生成 (academic-chart-gen)
 
 ## 概述
 

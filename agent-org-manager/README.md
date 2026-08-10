@@ -1,4 +1,4 @@
-# Agent Organization Manager 🏛️
+﻿# Agent Organization Manager 🏛️
 
 **Multi-department agent org setup — hierarchy, communication protocols, reporting pipelines, learning systems, and audit frameworks.**
 

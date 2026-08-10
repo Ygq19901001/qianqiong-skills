@@ -1,4 +1,4 @@
-# 论文版本演进管理 (Paper Version Manager)
+﻿# 论文版本演进管理 (Paper Version Manager)
 
 > 📄 A skill for managing the full lifecycle of academic paper versions — from version lineage visualization to quality scoring, changelog generation, safe baseline management, and decision log auditing.
 

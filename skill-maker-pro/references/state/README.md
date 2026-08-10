@@ -1,4 +1,4 @@
-# State（v3.0.0 占位）
+﻿# State（v3.0.0 占位）
 
 > **⚠️ [PLACEHOLDER v3.0.0]** — 占位文件，完整内容计划在 v3.0.x 补齐。
 > evolution-state.json 在技能根目录（不在 references/ 里）。本目录为未来状态归档预留。

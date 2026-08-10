@@ -1,4 +1,4 @@
----
+﻿---
 name: digital-persona
 slug: digital-persona
 version: 2.3.1

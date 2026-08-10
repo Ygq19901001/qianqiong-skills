@@ -1,4 +1,4 @@
-# Governance Templates — 乾穹宪令体系
+﻿# Governance Templates — 乾穹宪令体系
 
 The three-tier governance system ensures agents operate within defined boundaries without constant human oversight.
 

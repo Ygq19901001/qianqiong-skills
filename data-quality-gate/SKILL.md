@@ -1,4 +1,4 @@
----
+﻿---
 name: data-quality-gate
 slug: data-quality-gate
 displayName: 数据分析防错质量门

@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-figure-gen
 slug: academic-figure-gen
 displayName: 结构示意图生成

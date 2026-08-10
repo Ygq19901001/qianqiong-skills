@@ -1,4 +1,4 @@
-# 数据图学术配色方案 | Academic Color Schemes for Data Charts
+﻿# 数据图学术配色方案 | Academic Color Schemes for Data Charts
 
 > 以下方案与 academic-figure-gen（架构图配色）互补，专为统计数据图表优化。
 > 所有方案含完整hex色值 + matplotlib自定义colormap代码。

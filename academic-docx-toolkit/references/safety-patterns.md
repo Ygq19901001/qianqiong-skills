@@ -1,4 +1,4 @@
-# 批量操作安全模式 / Batch Operation Safety Patterns
+﻿# 批量操作安全模式 / Batch Operation Safety Patterns
 
 ## 概述
 

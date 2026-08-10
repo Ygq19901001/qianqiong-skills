@@ -1,4 +1,4 @@
-# 四维加权评分系统 (Four-Dimensional Weighted Scoring System)
+﻿# 四维加权评分系统 (Four-Dimensional Weighted Scoring System)
 
 ## 评分公式
 

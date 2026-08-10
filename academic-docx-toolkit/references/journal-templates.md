@@ -1,4 +1,4 @@
-# 期刊与学位论文模板参数 / Journal & Thesis Template Parameters
+﻿# 期刊与学位论文模板参数 / Journal & Thesis Template Parameters
 
 ## 概述
 

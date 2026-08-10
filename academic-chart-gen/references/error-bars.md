@@ -1,4 +1,4 @@
-# 误差线完整指南 | Error Bars Guide
+﻿# 误差线完整指南 | Error Bars Guide
 
 > 所有示例使用虚构数据。All examples use synthetic datasets.
 

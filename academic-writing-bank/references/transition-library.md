@@ -1,4 +1,4 @@
-# 学术过渡词库（Academic Transition Library）
+﻿# 学术过渡词库（Academic Transition Library）
 
 > 100+学术过渡词/短语，按逻辑功能分类。每条标注中文、英文、适用位置和正式度。
 

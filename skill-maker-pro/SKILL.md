@@ -1,4 +1,4 @@
----
+﻿---
 name: skill-maker-pro
 displayName: 技能制作专家Pro
 version: 2.2.0

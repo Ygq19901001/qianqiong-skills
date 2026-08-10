@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-chart-gen
 slug: academic-chart-gen
 displayName: 统计图表生成

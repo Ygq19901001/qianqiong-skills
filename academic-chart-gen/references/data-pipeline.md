@@ -1,4 +1,4 @@
-# 数据管道：CSV/Excel → 出版级图表 | Data Pipeline
+﻿# 数据管道：CSV/Excel → 出版级图表 | Data Pipeline
 
 > 所有示例使用虚构数据。All examples use synthetic datasets.
 

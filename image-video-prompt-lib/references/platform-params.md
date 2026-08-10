@@ -1,4 +1,4 @@
-# 分平台参数速查
+﻿# 分平台参数速查
 
 > 本表收录 Midjourney v7、Stable Diffusion / SDXL、即梦(Jimeng)、可灵(Kling)、可图(Kolor) 的**实际可用参数**。每条均给出「格式 + 示例 + 适用场景」。写法以各平台当前版本为准。
 

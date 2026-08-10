@@ -1,4 +1,4 @@
-# 学术短语库（Academic Phrase Bank）
+﻿# 学术短语库（Academic Phrase Bank）
 
 > 6大功能类学术短语，中英双语，每条标注适用章节、正式程度和使用场景。
 

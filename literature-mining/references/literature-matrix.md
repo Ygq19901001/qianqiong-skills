@@ -1,4 +1,4 @@
-# 文献矩阵方法论 / Literature Matrix Methodology
+﻿# 文献矩阵方法论 / Literature Matrix Methodology
 
 > 把 20-30 篇文献变成一张可分析的二维表——横向比较、模式发现、Gap 定位
 

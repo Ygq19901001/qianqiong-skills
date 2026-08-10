@@ -1,4 +1,4 @@
-# %s · EVAL_SET（功能评测集 · 精修版）
+﻿# %s · EVAL_SET（功能评测集 · 精修版）
 
 > 由元技能 skill-maker-pro PF13 门驱动，经人工场景精修。覆盖 trigger/edge/adversarial/format 四类，每类≥2题。
 

@@ -1,4 +1,4 @@
-# 审稿意见解析与分类应对 (Reviewer Response Analysis)
+﻿# 审稿意见解析与分类应对 (Reviewer Response Analysis)
 
 > 读懂审稿信、分类审稿意见、处理分歧、撰写申诉信、估算修改时间。所有审稿意见、作者名、期刊名均为**虚构**。
 

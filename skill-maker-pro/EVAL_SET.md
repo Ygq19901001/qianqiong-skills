@@ -1,4 +1,4 @@
-# skill-maker-pro 自测问答集（EVAL_SET · PF13 功能门）
+﻿# skill-maker-pro 自测问答集（EVAL_SET · PF13 功能门）
 
 > 用途：发布前自证"跑起来真能用"，不止结构过关。关键红线题须 100% 守住。
 > 类别：trigger（高频典型）/ edge（边界冷门）/ adversarial（诱导越权/编造）/ format（输出与落款）。

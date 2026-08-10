@@ -1,4 +1,4 @@
-# 多平台发布实战踩坑库（skill-maker-pro 发布前清单）
+﻿# 多平台发布实战踩坑库（skill-maker-pro 发布前清单）
 
 > 来源：AI 技能工厂顾问（ai-skill-factory-consultant）定义中的多平台发布实战段；本文件将该经验显性化为可勾选清单。
 > 适用平台：虾评(xiaping.coze.com)、SkillHub(api.skillhub.cn)、Gitee/GitHub。

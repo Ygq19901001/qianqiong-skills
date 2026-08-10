@@ -1,4 +1,4 @@
----
+﻿---
 name: production-quality-analysis
 displayName: 生产质量归因分析
 description: 不良品堆成山？IE 七大手法+鱼骨图+5Why 一键归因，帕累托锁定关键少数，HTML/DOCX 报告直出。

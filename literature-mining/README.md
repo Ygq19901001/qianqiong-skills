@@ -1,4 +1,4 @@
-# 文献挖掘与阅读笔记 / Literature Mining & Reading Notes
+﻿# 文献挖掘与阅读笔记 / Literature Mining & Reading Notes
 
 > **阅读文献的方法论工具包** — 帮你把文献"读透"而非"搜到"
 >

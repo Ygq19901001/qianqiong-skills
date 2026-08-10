@@ -1,4 +1,4 @@
-# Methodology（v3.0.0 占位）
+﻿# Methodology（v3.0.0 占位）
 
 > **⚠️ [PLACEHOLDER v3.0.0]** — 占位文件，完整内容计划在 v3.0.x 补齐。
 

@@ -1,4 +1,4 @@
-# 期刊尺寸预设 | Journal Size Presets
+﻿# 期刊尺寸预设 | Journal Size Presets
 
 > 完整的 matplotlib rcParams 配置，覆盖 Nature/Science/Elsevier/中文学报四大系列。
 

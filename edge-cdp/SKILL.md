@@ -1,4 +1,4 @@
----
+﻿---
 name: edge-cdp
 slug: edge-cdp
 displayName: Edge CDP

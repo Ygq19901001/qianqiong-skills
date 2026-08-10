@@ -1,4 +1,4 @@
-# 数据图嵌入Word专项 | DOCX Integration
+﻿# 数据图嵌入Word专项 | DOCX Integration
 
 > 简化版 Word 嵌入指南。完整 Word 文档操作见 academic-docx-toolkit 技能。
 > 本文件专注于数据图嵌入 Word 的格式规范与自动化。

@@ -1,4 +1,4 @@
----
+﻿---
 name: plagiarism-precheck
 slug: plagiarism-precheck
 displayName: 查重预检专家

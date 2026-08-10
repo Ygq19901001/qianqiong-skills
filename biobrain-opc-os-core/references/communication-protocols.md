@@ -1,4 +1,4 @@
-# Communication Protocols — 神经链设计
+﻿# Communication Protocols — 神经链设计
 
 Inter-agent communication is the nervous system of an AI-native company. Single-channel communication is a single point of failure.
 

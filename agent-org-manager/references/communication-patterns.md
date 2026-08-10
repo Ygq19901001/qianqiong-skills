@@ -1,4 +1,4 @@
-# Communication Patterns for Multi-Agent Organizations
+﻿# Communication Patterns for Multi-Agent Organizations
 
 ## Pattern 1: Hub-and-Spoke (Recommended)
 

@@ -1,4 +1,4 @@
-# Submission Helper / 投稿辅助工具
+﻿# Submission Helper / 投稿辅助工具
 
 > 学术投稿全环节实战工具箱 —— 从 Cover Letter 到 Rebuttal，一站式搞定。
 

@@ -1,4 +1,4 @@
-# image-video-prompt-lib 功能自测集
+﻿# image-video-prompt-lib 功能自测集
 
 > 用途：本地低风险回归自测。每条用例仅取 `category ∈ {trigger, edge, adversarial, format}` 之一。
 > 判定标准围绕本技能三大核心能力：提示词公式、平台参数速查、模板调用。

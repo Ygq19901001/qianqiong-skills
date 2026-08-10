@@ -1,4 +1,4 @@
----
+﻿---
 name: data-analyst-pro
 slug: qclaw-data-analyst-pro
 displayName: 写作素材引擎

@@ -1,4 +1,4 @@
-# 学术写作语料库 / Academic Writing Bank
+﻿# 学术写作语料库 / Academic Writing Bank
 
 > 学术论文写作的短语库 + 模板引擎 —— 让 AI 知道论文每个段落怎么写、用什么词。
 

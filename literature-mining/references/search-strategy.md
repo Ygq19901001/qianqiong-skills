@@ -1,4 +1,4 @@
-# 检索策略构建方法 / Search Strategy Construction
+﻿# 检索策略构建方法 / Search Strategy Construction
 
 > 本文件教授检索策略的**思维方法**——实际检索执行由 `literature-review` / `literature-reviewer-skill` 完成
 

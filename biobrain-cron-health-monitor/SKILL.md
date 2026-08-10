@@ -1,4 +1,4 @@
----
+﻿---
 name: biobrain-cron-health-monitor
 slug: biobrain-cron-health-monitor
 version: 2.2.0

@@ -1,4 +1,4 @@
-# 学术论文章节模板（Chapter Templates）
+﻿# 学术论文章节模板（Chapter Templates）
 
 > 中文学术论文标准8章结构的段落骨架模板。用 `{{PLACEHOLDER}}` 标记需要填充的内容位置。
 

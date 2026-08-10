@@ -1,4 +1,4 @@
-# academic-search-pro 功能自测集（EVAL_SET）
+﻿# academic-search-pro 功能自测集（EVAL_SET）
 
 > PF13 功能门：覆盖 trigger / edge / adversarial / format 四类，≥10 题，≥3 类。
 

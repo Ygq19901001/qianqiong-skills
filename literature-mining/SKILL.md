@@ -1,4 +1,4 @@
----
+﻿---
 name: literature-mining
 slug: literature-mining
 displayName: 文献挖掘专家

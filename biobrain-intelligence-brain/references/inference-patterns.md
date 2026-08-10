@@ -1,4 +1,4 @@
-# Cross-File Inference Patterns
+﻿# Cross-File Inference Patterns
 
 The brain's highest-value output is not what it finds in any single document — it's what it infers across documents.
 

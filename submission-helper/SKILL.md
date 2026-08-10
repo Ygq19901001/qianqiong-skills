@@ -1,4 +1,4 @@
----
+﻿---
 name: submission-helper
 slug: submission-helper
 displayName: 投稿助手

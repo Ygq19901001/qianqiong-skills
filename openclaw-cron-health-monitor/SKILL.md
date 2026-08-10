@@ -1,4 +1,4 @@
----
+﻿---
 name: cron-health-monitor
 slug: openclaw-cron-health-monitor
 version: 2.2.0

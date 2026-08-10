@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-search-pro
 slug: academic-search-pro
 displayName: 学术检索引擎

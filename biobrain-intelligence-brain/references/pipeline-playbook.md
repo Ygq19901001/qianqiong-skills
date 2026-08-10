@@ -1,4 +1,4 @@
-# 8-Step Metabolic Pipeline — Operations Playbook
+﻿# 8-Step Metabolic Pipeline — Operations Playbook
 
 The pipeline transforms raw information into actionable intelligence. Every step is mandatory. Skipping steps produces noise, not insight.
 

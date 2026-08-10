@@ -1,4 +1,4 @@
-# Learnings（v3.0.0 正式）
+﻿# Learnings（v3.0.0 正式）
 
 > **v3.0.0 决定（未达）**：`.learnings/` 与 `references/learnings/` 合并为 **单源** —— 本目录。
 > 实际 learnings 存储位置：`references/learnings/`

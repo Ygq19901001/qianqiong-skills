@@ -1,4 +1,4 @@
-# 支持的图表类型 | Supported Chart Types
+﻿# 支持的图表类型 | Supported Chart Types
 
 > 所有示例使用虚构数据。All examples use synthetic/fabricated datasets.
 

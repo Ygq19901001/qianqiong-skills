@@ -1,4 +1,4 @@
----
+﻿---
 name: doc-formatter
 displayName: 公文排版
 version: 2.2.0

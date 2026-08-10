@@ -1,4 +1,4 @@
-# 学术论文DOCX排版工具包 / Academic DOCX Toolkit
+﻿# 学术论文DOCX排版工具包 / Academic DOCX Toolkit
 
 ## 中文
 

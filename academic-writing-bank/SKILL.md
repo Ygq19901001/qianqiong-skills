@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-writing-bank
 slug: academic-writing-bank
 displayName: 学术写作词库

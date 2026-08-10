@@ -1,4 +1,4 @@
-## Description: <br>
+﻿## Description: <br>
 Helps agents design and operate multi-department agent organizations with rosters, communication channels, scheduled reporting, learning workflows, and audits. <br>
 
 This skill is ready for commercial/non-commercial use. <br>

@@ -1,4 +1,4 @@
-# Digital Persona 👻
+﻿# Digital Persona 👻
 
 **Create immersive digital personalities for deceased figures — 7-dimensional character modeling with dynamic interaction chains.**
 

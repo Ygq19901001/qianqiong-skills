@@ -1,4 +1,4 @@
-# Graphviz 安装与配置指南 (Graphviz Setup Guide)
+﻿# Graphviz 安装与配置指南 (Graphviz Setup Guide)
 
 ## 版本要求
 

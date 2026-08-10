@@ -1,4 +1,4 @@
----
+﻿---
 name: biobrain-agent-organization-manager
 slug: biobrain-agent-organization-manager
 version: 2.2.0

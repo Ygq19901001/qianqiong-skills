@@ -1,4 +1,4 @@
-# 学术配图生成工作流 (Academic Figure Generation Workflow)
+﻿# 学术配图生成工作流 (Academic Figure Generation Workflow)
 
 > Graphviz DOT 引擎驱动的学术论文配图生成工具
 

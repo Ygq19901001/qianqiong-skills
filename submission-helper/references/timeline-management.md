@@ -1,4 +1,4 @@
-# 投稿周期管理 (Submission Timeline Management)
+﻿# 投稿周期管理 (Submission Timeline Management)
 
 > 跟踪投稿状态、了解等待时间、催稿邮件、撤稿邮件、一稿多投警示。所有示例中的期刊名、论文标题、作者名均为**虚构**。
 

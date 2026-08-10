@@ -1,4 +1,4 @@
-# Cover Letter 模板 (Cover Letter Templates)
+﻿# Cover Letter 模板 (Cover Letter Templates)
 
 > 4类学科 × 中英双语 × 完整段落结构。所有示例中的期刊名、论文标题、作者名均为**虚构**。
 

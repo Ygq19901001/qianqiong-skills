@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-paper-workshop
 slug: academic-paper-workshop
 displayName: 学术论文工作坊

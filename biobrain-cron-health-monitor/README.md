@@ -1,4 +1,4 @@
-# Cron Health Monitor ❤️‍🩹
+﻿# Cron Health Monitor ❤️‍🩹
 
 **Proactive cron job health monitoring, failure detection, and auto-repair delegation for OpenClaw agents.**
 

@@ -1,4 +1,4 @@
-# 中文学术论文写作规范（Chinese Academic Writing Conventions）
+﻿# 中文学术论文写作规范（Chinese Academic Writing Conventions）
 
 > 中文学术论文特有的写作规范，涵盖人称、语态、数字、图表引用、中英混排等方面。
 

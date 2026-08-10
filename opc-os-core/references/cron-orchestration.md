@@ -1,4 +1,4 @@
-# Cron Orchestration — 自动化引擎
+﻿# Cron Orchestration — 自动化引擎
 
 All 7 departments run on cron. This reference provides battle-tested configurations.
 

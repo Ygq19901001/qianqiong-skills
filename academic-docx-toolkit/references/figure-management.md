@@ -1,4 +1,4 @@
-# 图片管理与编号 / Figure Management & Numbering
+﻿# 图片管理与编号 / Figure Management & Numbering
 
 ## 概述
 

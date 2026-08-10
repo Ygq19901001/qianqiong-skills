@@ -1,4 +1,4 @@
-# Intelligence Brain 🧠
+﻿# Intelligence Brain 🧠
 
 **AI-native company intelligence engine — 8-step metabolic pipeline, cross-file inference, neural chain design, and information classification routing.**
 

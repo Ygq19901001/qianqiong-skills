@@ -1,4 +1,4 @@
-# Common Cron Error Catalog
+﻿# Common Cron Error Catalog
 
 ## Error: "Message failed"
 **Frequency:** Very common in isolated sessions

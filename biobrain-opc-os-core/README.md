@@ -1,4 +1,4 @@
-# OPC OS Core 🏢
+﻿# OPC OS Core 🏢
 
 **AI-native one-person company operating system — 7 autonomous agent departments, governance framework, cron orchestration, revenue funnel, and inter-agent communication.**
 

@@ -1,4 +1,4 @@
-# 结构化阅读笔记模板 / Structured Reading Notes Templates
+﻿# 结构化阅读笔记模板 / Structured Reading Notes Templates
 
 > 三套模板覆盖不同阅读深度：深度阅读（核心文献 5-8 篇）、快速浏览（次要文献 10-20 篇）、对比阅读（竞争性论文 2-3 篇）
 

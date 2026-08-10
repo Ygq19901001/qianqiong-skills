@@ -1,4 +1,4 @@
-# Cron Templates for Agent Organizations
+﻿# Cron Templates for Agent Organizations
 
 ## Daily Learning (Staggered Morning)
 

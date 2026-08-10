@@ -1,4 +1,4 @@
-# 多文档合并策略 / Multi-Document Merging Strategy
+﻿# 多文档合并策略 / Multi-Document Merging Strategy
 
 ## 概述
 

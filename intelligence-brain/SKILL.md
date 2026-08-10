@@ -1,4 +1,4 @@
----
+﻿---
 name: intelligence-brain
 slug: intelligence-brain
 version: 2.2.0

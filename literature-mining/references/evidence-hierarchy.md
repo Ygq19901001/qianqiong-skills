@@ -1,4 +1,4 @@
-# 证据质量分级体系 / Evidence Quality Hierarchy
+﻿# 证据质量分级体系 / Evidence Quality Hierarchy
 
 > 不是所有论文的证据分量都一样重——学会区分"铁证"和"弱证"
 

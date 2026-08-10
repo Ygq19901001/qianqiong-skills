@@ -1,4 +1,4 @@
----
+﻿---
 name: biobrain-opc-os-core
 slug: biobrain-opc-os-core
 version: 2.2.0

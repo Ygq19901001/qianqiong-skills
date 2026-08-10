@@ -1,4 +1,4 @@
----
+﻿---
 name: academic-docx-toolkit
 slug: academic-docx-toolkit
 displayName: 学术DOCX工具包

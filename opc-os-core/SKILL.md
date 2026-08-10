@@ -1,4 +1,4 @@
----
+﻿---
 name: opc-os-core
 slug: opc-os-core
 version: 2.2.0

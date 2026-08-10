@@ -1,4 +1,4 @@
----
+﻿---
 name: ppt-pro
 slug: qclaw-ppt-pro
 displayName: PPT内容架构师

@@ -1,4 +1,4 @@
----
+﻿---
 name: humanizer-pro
 slug: qclaw-humanizer-pro
 displayName: AI痕迹清洗

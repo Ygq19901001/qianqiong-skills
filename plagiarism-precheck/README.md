@@ -1,4 +1,4 @@
-# 查重预检与降重方法论 | Plagiarism Pre-Check & Reduction Methodology
+﻿# 查重预检与降重方法论 | Plagiarism Pre-Check & Reduction Methodology
 
 ## 中文
 

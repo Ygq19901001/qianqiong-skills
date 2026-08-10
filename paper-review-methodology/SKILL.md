@@ -1,4 +1,4 @@
----
+﻿---
 name: paper-review-methodology
 slug: paper-review-methodology
 displayName: 学术内容审查

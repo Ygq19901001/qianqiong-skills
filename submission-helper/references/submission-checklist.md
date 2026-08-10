@@ -1,4 +1,4 @@
-# 投稿前检查清单 (Pre-Submission Checklist)
+﻿# 投稿前检查清单 (Pre-Submission Checklist)
 
 > 7大类45项，逐条核对，避免因细节问题被 desk rejection。所有示例中的期刊名、论文信息均为**虚构**。
 

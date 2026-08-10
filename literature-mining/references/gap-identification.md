@@ -1,4 +1,4 @@
-# 研究Gap系统识别框架 / Research Gap Identification Framework
+﻿# 研究Gap系统识别框架 / Research Gap Identification Framework
 
 > 从"感觉有空白"到"系统地论证空白"——4 类 Gap、4 大发现技术、4 维评估标准
 

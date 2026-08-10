@@ -1,4 +1,4 @@
-# 自进化引擎（v2.9.2 § -2 详细文档）
+﻿# 自进化引擎（v2.9.2 § -2 详细文档）
 
 > **v3.0.0 拆分**：v2.9.2 文档过于庞杂（203KB），本节被拆到 references/methodology/evolution-engine.md，按需加载。
 

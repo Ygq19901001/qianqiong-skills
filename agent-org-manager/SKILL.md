@@ -1,4 +1,4 @@
----
+﻿---
 name: agent-org-manager
 slug: agent-org-manager
 version: 2.2.0

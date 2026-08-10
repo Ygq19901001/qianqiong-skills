@@ -1,4 +1,4 @@
-# Neural Chain Design — Agent Communication Topology
+﻿# Neural Chain Design — Agent Communication Topology
 
 The neural chain is the brain's nervous system — the infrastructure that lets agents communicate, share state, and maintain organizational coherence. Bad chain design = silent failures, missed handovers, and agents working from stale information.
 
