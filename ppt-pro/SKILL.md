@@ -2,7 +2,7 @@
 name: ppt-pro
 slug: qianqiong-ppt-pro
 displayName: PPT内容架构师
-version: 2.3.0
+version: 2.3.1
 author: QianQiong
 license: MIT
 summary: 受众导向PPT内容架构师——每页出完整可落地内容（观点标题+可量化要点+图表选型+布局+过渡语），绝不出占位符

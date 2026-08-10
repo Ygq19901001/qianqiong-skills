@@ -1,7 +1,7 @@
-﻿---
+---
 name: biobrain-agent-organization-manager
 slug: biobrain-agent-organization-manager
-version: 2.2.0
+version: 2.3.1
 displayName: "Agent Organization Manager"
 summary: "Multi-department agent org setup with hierarchy, comms, reporting, learning, and audit systems."
 description: "Multi-department agent org setup: hierarchy, comms, reporting, learning, audit. Triggers: 'agent team', 'agent organization', 'agent roster'"
@@ -285,6 +285,39 @@ company/
 
 - [references/communication-patterns.md](references/communication-patterns.md) — 三通道协议详解、故障恢复、反模式清单
 - [references/cron-templates.md](references/cron-templates.md) — 六套即用cron模板（学习/汇报/巡检/维护/修复/广播）
+
+## 运行时稳定性保障（QP 韧性体系）
+
+本技能为 Prompt 型技能，稳定性通过以下机制保障：
+
+### 输出一致性校验
+- 同一输入多次运行时，核心结论应一致（允许表达方式差异）
+- 若输出出现显著矛盾，优先回溯最后一次修改的源头
+- 引用型数据以原始来源为准，不因模型采样差异改变结论
+
+### 异常输入降级链
+```
+正常输入 → 完整流程
+    ↓ 关键信息缺失
+    追问补充（1轮）→ 仍不足？→ 标注「信息不足」+ 给出最小可行输出
+    ↓ 超出能力边界
+    硬边界拦截 → 明确告知「不在能力范围」+ 建议替代方案
+    ↓ 模型采样不稳定
+    核心结论不变 → 仅标注「表达可能存在微调」
+```
+
+### 重试与恢复指引
+| 场景 | 处理 |
+|------|------|
+| 输出明显偏离工作流程 | 用户可追加「请严格按工作流程重新执行」触发重试 |
+| 数据引用不一致 | 以首次引用来源为准，后续引用追加「已核实与首次一致」 |
+| 中间步骤遗漏 | 用户可指定步骤号要求补执行 |
+| 外部依赖不可用 | 标注「外部依赖暂不可用」+ 使用缓存/已知数据替代，不静默跳过 |
+
+### 用户干预入口
+- 任何步骤输出不满足预期时，直接指出问题即可触发修正
+- 不需要重新描述全部需求，模型保留上下文并增量修正
+- 连续 2 轮修正失败 → 建议缩小范围或拆分子任务
 
 ## QP 错误码（专用段 E1451+）
 
